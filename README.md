@@ -1,0 +1,2 @@
+# VoiceAsssit
+“VoiceAssist” es un prototipo de una librería que ayudaría a los desarrolladores a incluir en una aplicación móvil la interacción por medio de comandos de voz, ofreciendo una alternativa a usuarios con limitaciones y minimizando así el uso del entorno gráfico. Este prototipo integra tecnologías de reconocimiento de voz para que el usuario pueda comunicarse por medio de comando de voz con la aplicación móvil.
