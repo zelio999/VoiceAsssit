@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\practica ingenieria 5\\Proyecto\\NewsApp\\voiceassist\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
